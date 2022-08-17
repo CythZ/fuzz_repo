@@ -10,7 +10,7 @@ Description: MP4Box can transfer different multimedia file format.A heap buffer 
 
 ## Trigger Screen-Shot
 
-![](.\pic\gpac-1.png)
+![](./pic/gpac-1.png)
 
 Waiting for official confirmation：https://github.com/gpac/gpac/issues/2240
 
