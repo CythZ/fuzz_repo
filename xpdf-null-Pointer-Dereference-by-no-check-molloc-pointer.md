@@ -1,4 +1,4 @@
-# Null-Pointer-Dereference by no-check molloc pointer
+# Null-Pointer-Dereference by no-check malloc pointer
 
 Software: xpdf
 
