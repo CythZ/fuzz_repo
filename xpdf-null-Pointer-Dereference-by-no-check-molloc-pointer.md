@@ -12,5 +12,7 @@ Description: The Xpdf open source project includes a PDF viewer along with a col
 
 ## Official confirmation
 
+[confirm](https://forum.xpdfreader.com/viewtopic.php?f=3&t=42325&p=43885#p43885)
+
 ![](./pic/xpdf-1.png)
 
